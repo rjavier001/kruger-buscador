@@ -10,6 +10,7 @@
 
 - React JS
 - HTML
+- Styled Components
 - CSS
 - Git
 - JavaScript
