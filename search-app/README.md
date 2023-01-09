@@ -2,7 +2,7 @@
 
 # Kruger Star
 
-- In this repository you can find My Book App.
+- In this repository you can find My Search App.
 
 <img src='src/assets/img/mockup.png'>
 
@@ -10,7 +10,6 @@
 
 - React JS
 - HTML
-- TaildWind Css
 - CSS
 - Git
 - JavaScript
@@ -27,7 +26,7 @@ Use the following steps to run this Portfolio locally:
 
 - get in the directory you want this folder to appear
 
-- put: git clone `git@github.com:rjavier001/kruger-libros.git`
+- put: git clone `git@github.com:rjavier001/kruger-buscador.git`
 
 - open the folder with a code editor (VS Code preferred)
 
@@ -37,7 +36,7 @@ Use the following steps to run this Portfolio locally:
 
 For a live demo please click on the following link:
 
-https://kruger-book-catalog-site.netlify.app/
+https://kruger-search-app-site.netlify.app/
 
 ## Authors
 
