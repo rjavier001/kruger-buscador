@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+![Logo](https://krugercorp.com/wp-content/uploads/2022/10/logo-Kruger-Principal.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Kruger Star
 
-## Available Scripts
+- In this repository you can find My Book App.
 
-In the project directory, you can run:
+<img src='src/assets/img/mockup.png'>
 
-### `npm start`
+## Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React JS
+- HTML
+- TaildWind Css
+- CSS
+- Git
+- JavaScript
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+**In this repository I will create my weather app whit RCA.**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Run it
 
-### `npm run build`
+Use the following steps to run this Portfolio locally:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- open the terminal
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- get in the directory you want this folder to appear
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- put: git clone `git@github.com:rjavier001/kruger-libros.git`
 
-### `npm run eject`
+- open the folder with a code editor (VS Code preferred)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- use 'NPM Start'
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+For a live demo please click on the following link:
 
-### `npm run build` fails to minify
+https://kruger-book-catalog-site.netlify.app/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Authors
+
+👤 **Roberto Javier Vallejo**
+
+- GitHub: [@rjavier001](https://github.com/rjavier001)
+- LinkedIn: [Roberto Javier Vallejo](https://www.linkedin.com/in/javier-vallejo-769b98229/)
+
+## 🤝 Contributing
+
+[Juan Sotomayor](https://github.com/Juanse7793) - Tutor front ks
